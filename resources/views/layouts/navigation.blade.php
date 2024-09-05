@@ -12,5 +12,15 @@
              <li> <strong>212</strong>following</li>
              </ul>
           </div>
+         <h1>  pivnati</h1>
+         <p>Natan Muleta
+📍 Adama, Ethiopia
+💻 Software Engineering Student @ASTU
+⚽ Football Enthusiast | Web Developer | MERN Stack Lover
+🚀 Building cool projects with Laravel, React & Vite
+📧 DM for collaborations! 
+         </p>
+
+    
        </div> 
 </div>
