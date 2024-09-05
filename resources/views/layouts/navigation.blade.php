@@ -2,15 +2,15 @@
 <div class="container">
        <div class="row">
         <div class="col-3 p-5 ">
-        <img src="https://c8.alamy.com/comp/M5BHFC/pivx-blockchain-cryptocurrency-coin-vector-logo-of-pivx-M5BHFC.jpg" class="w-32 h-32" alt="">
+        <img src="https://c8.alamy.com/comp/M5BHFC/pivx-blockchain-cryptocurrency-coin-vector-logo-of-pivx-M5BHFC.jpg" style="width: 100px; height: auto; padding: 10px; border-radius: 50%;" alt="Pivx Logo">
         </div>
-          <div class="col-9">
-            <div> <h1> piv ig profile</h1></div>
-            <div>
-             <div> <strong>153</strong></div>
-             <div><strong>23k</strong>followers</div>
-             <div> <strong>212</strong>following</div>
-             </div>
+          <div style="padding:20px; display:flex;" class="col-9">
+            <ul style="display:flex; gap:2rem;">
+            <li style="gap:2rem;"> <h1> piv ig profile</h1></li>
+            <li><strong>153</strong> Posts</li>
+             <li><strong>23k</strong>followers</li>
+             <li> <strong>212</strong>following</li>
+             </ul>
           </div>
        </div> 
 </div>
